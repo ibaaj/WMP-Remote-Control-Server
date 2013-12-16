@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1298972288 source:c:\users\syskaw-work\desktop\socket\socket_serv\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+
+1301081788 source:c:\users\syskaw-work\desktop\wmp_socket_server\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+
+1305738667 source:c:\users\syskaw-laptop\dropbox\[#school] ece\[#wip][#done] pste\[socket+lan+wmp] control wmp basic\[c] projets\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+
+1305738667 source:c:\users\syskaw-laptop\desktop\evol intent\caca\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+
+1305738667 source:c:\users\syskaw-laptop\desktop\evol intent\pste\c\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+
