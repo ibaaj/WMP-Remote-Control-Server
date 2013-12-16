@@ -26,7 +26,7 @@ Actions possible :
 
 With a web interface, it could control WMP by LAN.
 
-This project was presented at the "Journée de la Science" at ECE Paris Engineer School in 2011.
+This project was shown at the "Journée de la Science" at ECE Paris Engineer School in 2011.
 
 
 
